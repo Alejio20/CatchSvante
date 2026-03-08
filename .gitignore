@@ -1,0 +1,9 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+
+svantecatch.egg-info
